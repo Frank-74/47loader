@@ -7,14 +7,13 @@ An open-source tape loader for the ZX Spectrum implemented from scratch.
   1. In addition to fast blocks, the loader can also cope with blocks using ROM timings, so the same build of your software can be distributed as both TZX and TAP files.
   1. Robust error detection using [Fletcher's algorithm](https://en.wikipedia.org/wiki/Fletcher's_checksum).
   1. [Choice of border effects](BorderThemes.md); additional themes can be added with a few lines of assembly language.
-  1. [of FancyScreen screen loading effects](Choice.md), or an ["instant" loading screen](Instascreen.md) a la Speedlock.
+  1. [Choice of FancyScreen screen loading effects](FancyScreen.md), or an ["instant" loading screen](Instascreen.md) a la Speedlock.
   1. Optional colour-changing progress indicator.
   1. [Free, open-source software, liberally licensed](https://code.google.com/p/47loader/source/browse/trunk/LICENSE).
 
 # Why shouldn't I use 47loader? #
 
   1. It's written by a rank amateur with next to no Z80 coding experience.
-
 
 # How do I use it? #
 
