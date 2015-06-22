@@ -15,12 +15,4 @@ Why shouldn't I use 47loader?
 
 * It's written by a rank amateur with next to no Z80 coding experience. 
 
-How do I use it?
-
-* Start by looking at a simple example.
-* Here's how to specify the speed of the loader.
-* You can load blocks glued together with no gaps.
-* A loading screen that pops up instantly always looks slick.
-* Or perhaps you'd like a bidirectional screen load?
-* The error handling can be configured.
-* It's fairly simple to embed the loader in a REM statement in a BASIC loader.
+[Wiki documentation is available](https://github.com/stephenw32768/47loader/blob/wiki/ProjectHome.md).
